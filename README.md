@@ -13,10 +13,10 @@ A few resources to get you started if this is your first Flutter project:
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+samples, guidance on mobile https://raw.github.com/{USERNAME}/{REPOSITORY}/{BRANCH}/{PATH}development, and a full API reference.
 
 ## Screenshot
 
-<div align="center">
-    <img src="/screenshots/screen1.jpg" width="400px"</img> 
+<div align="left">
+    <img src="https://raw.github.com/andrechynt/flutter-fetch-data/master/Screenshot_20220223_091927.png" width="300px"</img> 
 </div>
